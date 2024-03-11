@@ -1,0 +1,9 @@
+Time: 0
+Waiting clients
+[(1,1,1)  ]
+Queue 0: 
+[]
+
+Average service is: 1.0
+Average waiting time is: 0.0
+Peak hour is: 0
